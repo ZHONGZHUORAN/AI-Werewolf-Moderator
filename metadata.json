@@ -1,0 +1,5 @@
+{
+  "name": "AI Werewolf Moderator",
+  "description": "A 9-player standard Werewolf (Mafia) game where you play with friends on a single device against AI bots. The AI acts as the missing players and the moderator manages the game flow.",
+  "requestFramePermissions": []
+}
